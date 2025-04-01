@@ -2,15 +2,9 @@
 
 # 📚 PDF-Quizzer  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your_username/PDF-Quizzer)
-![GitHub stars](https://img.shields.io/github/stars/your_username/PDF-Quizzer?style=social)
-![GitHub license](https://img.shields.io/github/license/your_username/PDF-Quizzer)
-
 ## 📝 Description  
 **PDF-Quizzer** is an interactive quiz application that extracts questions from a **PDF file** and presents them in a user-friendly **multiple-choice format**.  
 It allows users to take a quiz and get instant results.  
-
-> ⚠️ **Note:** This tool has been tested with **PassLeader** PDF files.  
 
 ---
 
@@ -32,8 +26,7 @@ Track your progress
 Click "End Exam" to see your final score
 
 ## 🎥 Demo  
-[![Watch the demo](screenshot.png)](PDF-Quizzer.mp4)  
-
+[![Watch the demo](screenshot.png)](https://www.youtube.com/watch?v=k_kfBYeSq_0) 
 
 
 📌 Notes
