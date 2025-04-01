@@ -32,7 +32,7 @@ Track your progress
 Click "End Exam" to see your final score
 
 ## 🎥 Demo  
-[![Watch the demo](screenshot.png)](demo.mp4)  
+[![Watch the demo](screenshot.png)](PDF-Quizzer.mp4)  
 
 
 
